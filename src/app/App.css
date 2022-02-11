@@ -1,0 +1,18 @@
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  background-color: #0084d1;
+}
+
+textarea {
+  border: none;
+}
+
+.App {
+  height: 100%;
+  text-align: center;
+  overflow: auto;
+}
